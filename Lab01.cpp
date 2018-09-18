@@ -26,6 +26,8 @@ using std::getline;
 
 // Prototyped functions
 string getFileName();
+// ifstream& inFile requires the "&" to be used as a variable in a function,
+// otherwise the functions code would have to be in main() to work
 void checkOpeness(string file, ifstream& inFile);
 
 
