@@ -1,6 +1,6 @@
 # lab-01
 "Submit your (well-commented) code and your screenshots to Github under your Lab1 assignment. submit link to your github repository in wyocourses. For this and all labs please include a README.md file with your name and assignment listed, as well as any help received (classmates, TA’s, etc.). Also, please follow the practice of placing your name and assignment description in comments at the top of each file for your programs in this class."
-asdf
+
 // Lab01.cpp
 // Jeremiah Vaskis
 // COSCO 2030
